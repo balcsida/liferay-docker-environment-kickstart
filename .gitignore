@@ -1,7 +1,7 @@
-# Yarn 2 Zero install
+# Yarn 2 Non-zero install
 .yarn/*
-!.yarn/cache
 !.yarn/releases
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
+.pnp.*
